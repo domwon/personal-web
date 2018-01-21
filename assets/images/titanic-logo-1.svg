@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 936 936">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #f9ffde;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #e86b6b;
+        stroke-miterlimit: 10;
+        stroke-width: 40px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="468" y1="936" x2="468" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00a99d"/>
+      <stop offset="1" stop-color="#22b573"/>
+    </linearGradient>
+  </defs>
+  <title>titanic-logo</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <rect class="cls-1" width="936" height="936"/>
+        <circle class="cls-2" cx="467.5" cy="468.5" r="313"/>
+        <path class="cls-3" d="M468,936c0-317.29,150.71-468,468-468"/>
+        <path class="cls-3" d="M468,0C468,317.29,317.29,468,0,468"/>
+      </g>
+    </g>
+  </g>
+</svg>

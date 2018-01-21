@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #f48a82;
+      }
+
+      .cls-3 {
+        stroke: #f48a82;
+        stroke-miterlimit: 10;
+        stroke-width: 37px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="512" y1="1024" x2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a2759"/>
+      <stop offset="1" stop-color="#2a294b"/>
+    </linearGradient>
+  </defs>
+  <title>refyne-logo-v2_1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect class="cls-1" width="1024" height="1024"/>
+      <g>
+        <polygon class="cls-2" points="512.05 620.83 195.05 437.81 195.05 803.85 512.05 620.83"/>
+        <polygon class="cls-2" points="511.75 620.44 828.75 803.46 828.75 437.42 511.75 620.44"/>
+        <path class="cls-2" d="M323.75,374.25c0-104.11,84.39-188.5,188.5-188.5s188.5,84.39,188.5,188.5"/>
+        <line class="cls-3" x1="512.01" y1="621" x2="512" y2="280"/>
+      </g>
+    </g>
+  </g>
+</svg>

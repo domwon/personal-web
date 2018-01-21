@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1271 1271">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #05557c;
+        stroke-miterlimit: 10;
+        stroke-width: 40px;
+      }
+
+      .cls-3 {
+        fill: #05557c;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="635.5" y1="1271" x2="635.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="aqua"/>
+      <stop offset="1" stop-color="#29abe2"/>
+    </linearGradient>
+  </defs>
+  <title>lasso-logo</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect class="cls-1" width="1271" height="1271"/>
+      <circle class="cls-2" cx="635.25" cy="653.25" r="61.75"/>
+      <polygon class="cls-3" points="634.82 815.5 700.35 702 569.29 702 634.82 815.5"/>
+      <circle class="cls-2" cx="860.25" cy="801.25" r="61.75"/>
+      <polygon class="cls-3" points="859.82 963.5 925.35 850 794.29 850 859.82 963.5"/>
+      <path class="cls-2" d="M221,957c0-373.56,202.56-551,629-551"/>
+      <circle class="cls-2" cx="930" cy="406" r="100"/>
+      <circle class="cls-2" cx="457.25" cy="801.25" r="61.75"/>
+      <polygon class="cls-3" points="456.82 963.5 522.35 850 391.3 850 456.82 963.5"/>
+    </g>
+  </g>
+</svg>

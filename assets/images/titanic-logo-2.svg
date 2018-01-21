@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 787 787">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 20px;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="393.5" cy="393.5" r="393.5" gradientTransform="translate(0 157.4) scale(1 0.6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00c2bf"/>
+      <stop offset="1" stop-color="#00a99d"/>
+    </radialGradient>
+  </defs>
+  <title>titanic-logo_1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect class="cls-1" width="787" height="787"/>
+      <polyline class="cls-2" points="234 349 293 281 623 281 623 349"/>
+      <polyline class="cls-2" points="588.5 245 599.5 203 391.5 204 350.5 245"/>
+      <polygon class="cls-2" points="552.5 451 642.5 381 122.5 381 265.5 451 552.5 451"/>
+      <circle class="cls-2" cx="182" cy="551" r="30"/>
+      <circle class="cls-2" cx="323" cy="605" r="30"/>
+      <circle class="cls-2" cx="463" cy="551" r="30"/>
+      <circle class="cls-2" cx="323" cy="605" r="30"/>
+      <circle class="cls-2" cx="604" cy="605" r="30"/>
+      <line class="cls-2" x1="235" y1="571" x2="270" y2="584"/>
+      <line class="cls-2" x1="516" y1="572" x2="551" y2="585"/>
+      <line class="cls-2" x1="376.53" y1="591.28" x2="410.47" y2="575.72"/>
+    </g>
+  </g>
+</svg>

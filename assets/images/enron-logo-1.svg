@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 971 971">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 20px;
+      }
+
+      .cls-2 {
+        stroke: #eacf7a;
+      }
+
+      .cls-3 {
+        stroke: #7889ef;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="485.5" y1="971" x2="485.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#171717"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <title>enron-logo_1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <rect class="cls-1" width="971" height="971"/>
+        <polygon class="cls-2" points="728.53 539.09 525.59 742.03 464.78 681.22 420.94 637.38 360.12 576.56 316.28 532.72 255.47 471.91 331.84 395.54 458.41 268.97 519.22 329.78 392.65 456.35 436.49 500.19 493.77 442.92 554.58 503.73 497.31 561.01 541.15 604.85 667.72 478.28 728.53 539.09"/>
+        <polyline class="cls-3" points="485.5 790.5 164 469 171 476 465.5 181.5"/>
+        <circle class="cls-3" cx="480.5" cy="160.5" r="31.5"/>
+        <circle class="cls-3" cx="503.5" cy="814.5" r="31.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

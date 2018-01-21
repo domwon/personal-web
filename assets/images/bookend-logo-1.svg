@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 714 693">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        font-size: 350px;
+        fill: #fff;
+        font-family: ChalkboardSE-Regular, Chalkboard SE;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="357" y1="693" x2="357" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbae17"/>
+      <stop offset="0.04" stop-color="#ef9e25"/>
+      <stop offset="0.14" stop-color="#ce744b"/>
+      <stop offset="0.25" stop-color="#b45269"/>
+      <stop offset="0.35" stop-color="#a23a7e"/>
+      <stop offset="0.44" stop-color="#972c8b"/>
+      <stop offset="0.51" stop-color="#93278f"/>
+      <stop offset="1" stop-color="#662d91"/>
+    </linearGradient>
+  </defs>
+  <title>bookend-logo</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect class="cls-1" width="714" height="693"/>
+      <text class="cls-2" transform="translate(137.04 429.31) rotate(19.05)">B</text>
+      <text class="cls-2" transform="translate(357.12 466.82)">E</text>
+    </g>
+  </g>
+</svg>

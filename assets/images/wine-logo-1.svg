@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1356 1356">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 20px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="678" y1="1356" x2="678" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a1100"/>
+      <stop offset="1" stop-color="#6a0000"/>
+    </linearGradient>
+  </defs>
+  <title>wine-logo</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect class="cls-1" width="1356" height="1356"/>
+      <rect class="cls-2" x="628" y="311" width="103" height="32" rx="12" ry="12"/>
+      <rect class="cls-2" x="654" y="412" width="47" height="127" rx="12" ry="12"/>
+      <rect class="cls-2" x="555" y="539" width="247" height="566" rx="81.66" ry="81.66"/>
+      <line class="cls-2" x1="555" y1="910" x2="802" y2="910"/>
+      <rect class="cls-2" x="628" y="236" width="103" height="32" rx="12" ry="12"/>
+      <rect class="cls-2" x="627" y="1164" width="103" height="32" rx="12" ry="12"/>
+    </g>
+  </g>
+</svg>
